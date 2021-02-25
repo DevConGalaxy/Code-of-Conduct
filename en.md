@@ -12,4 +12,6 @@ Our aim is to foster a community that is open to all and strives to:
 - Be respectful: We may not agree with each other all the time but disagreement is no excuse for poor behavior and poor manners.
 - We expect all the community members to follow these rules at all the events organized by Omaha Azure User Group.
 
-If you are being harassed or notice that someone else is being harassed, or have any other concerns, please contact organizers in-person through meetup messages.
+If you are being harassed or notice that someone else is being harassed, or have any other concerns, please contact :
+ - for virtual events : the organizers in-person through meetup messages.
+ - for in-person events : the organizer present during the event
